@@ -1,6 +1,6 @@
 {
     "name": "geisi/laravel-rickrollback",
-    "description": "This is my package laravel-rickrollback",
+    "description": "A Laravel package to rollback your migrations with Rick Astley",
     "keywords": [
         "geisi",
         "laravel",
